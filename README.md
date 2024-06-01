@@ -11,6 +11,10 @@ Comandos necesarios para instalar las librerias necesarias:
 
 
 
+Comandos:
+
+
+
 
 pip install matplotlib
 
