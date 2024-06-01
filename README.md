@@ -1,6 +1,6 @@
-Necesitas tener instalado el matplotlib en tu sistema
 
-comandos necesarios para instalar las librerias necesarias:
+
+Comandos necesarios para instalar las librerias necesarias:
 
 
 
